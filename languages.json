@@ -1,0 +1,12 @@
+[
+  {
+    "lg": "python",
+    "ex": ".py",
+    "fn": "main.py"
+  },
+  {
+    "lg": "C",
+    "ex": ".c",
+    "fn": "main.c"
+  }
+]
